@@ -21,3 +21,4 @@ Crafted a stopwatch using HTML, CSS, and JavaScript. Now, you can effortlessly m
 + Event Listeners: Responsiveness to user interactions.
 + Timers: Regular intervals for updating time display.
 + Formatting: User-friendly time representation.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev) 
