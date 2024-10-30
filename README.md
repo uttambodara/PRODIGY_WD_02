@@ -12,7 +12,7 @@ Crafted a stopwatch using HTML, CSS, and JavaScript. Now, you can effortlessly m
 + Timers are used to measure specific time intervals. But in electrical engineering terms, timers are also referred to as counters often. The timer is a component which is extensively used in different embedded systems. They are used to keep a record of time for different events occurring in the embedded systems
 
 
-# Demo
+# Demo❤️💥
 
 ![Screenshot 2024-06-14 161604](https://github.com/uttambodara/PRODIGY_WD_02/assets/129719033/7b2730da-e992-467a-bf51-514333d9e6b6)
 
